@@ -1,0 +1,6 @@
+<launch>
+<!-- Launch file for unit test-->
+
+    <node pkg="inno_lio" type="test_node" name="test_1" output="screen" /> 
+
+</launch>
